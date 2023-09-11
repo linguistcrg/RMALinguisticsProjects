@@ -1,6 +1,6 @@
 # RMALinguisticsProjects
 
-Repository of projects completed for courses in the RMA in Linguistics. Topics covered include:
+Repository of projects completed for courses in the RMA in Linguistics at Utrecht University. Topics covered include:
 - Python basics: strings, functions, lists.
 - Weblicht/Autosearch
 - Corpora & annotation: BNC/CQP
