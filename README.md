@@ -9,4 +9,4 @@ Repository of projects completed for courses in the RMA in Linguistics at Utrech
 - NLTK
 - Treebanks: PMLTQ
 
-*Graded assignments are unavailable according to Utrecht University's plagiarism policy.*
+*Graded assignments are unavailable according to Utrecht University's plagiarism policy. Only ungraded assignments (i.e. notebooks with daily homework, where answers were later provided by the instructor) are uploaded.*
